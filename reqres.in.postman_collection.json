@@ -150,7 +150,7 @@
 									"\r",
 									"pm.test(\"Correct name\", function () {\r",
 									"    var jsonData = pm.response.json();\r",
-									"    pm.expect(jsonData.name).to.eql(\"Dima\");\r",
+									"    pm.expect(jsonData.name).to.eql(\"Evgen\");\r",
 									"});\r",
 									"\r",
 									"pm.test(\"Correct job\", function () {\r",
@@ -169,7 +169,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"Dima\",\r\n    \"job\": \"GB_Student\"\r\n}",
+							"raw": "{\r\n    \"name\": \"Evgen\",\r\n    \"job\": \"GB_Student\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -422,7 +422,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"Dima\",\r\n    \"job\": \"JUST_Student\"\r\n}",
+							"raw": "{\r\n    \"name\": \"Evgen\",\r\n    \"job\": \"JUST_Student\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -465,7 +465,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"Dima\",\r\n    \"job\": \"VIP_Student\"\r\n}",
+							"raw": "{\r\n    \"name\": \"Evgen\",\r\n    \"job\": \"VIP_Student\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
